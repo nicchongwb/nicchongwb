@@ -2,8 +2,8 @@
 
 OSWE | eCPPTv2 | eJPTv1 | Security Engineer
 
-Ex-computer graphic artist turned security engineer. 
+Ex- 3D Computer Graphic artist turned Security Engineer.
 
-## Languages and Tools:
+## Languages and Tools 🍄
 
 Python, SQL, JS, PHP, C, Java, Rust (learning), Go (to be started)
