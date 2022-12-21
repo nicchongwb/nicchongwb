@@ -1,6 +1,6 @@
 # About me 🧙‍♂️
 
-OSWE | eCPPTv2 | eJPTv1 | Security Engineer
+Security Engineer | OSWE | eCPPTv2 | eJPTv1 
 
 Ex-3D/CG/VFX/Animation artist turned Security Engineer.
 
