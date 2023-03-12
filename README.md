@@ -7,4 +7,4 @@ Security Engineer | OSWE | eCPPTv2 | eJPTv1
 
 ## Programming Languages 🍄
 
-Python, SQL, JavaScript, PHP, Java, C, Rust (learning), Go (learning)
+Kotlin, Java, Go, Python, SQL, JavaScript, PHP, C, Rust (learning)
