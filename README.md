@@ -2,7 +2,7 @@
 
 Security Engineer | AppSec && DevSecOps
 
-Some Certifications: 
+Some Certifications:<br>
 • OSWE, eCPPTv2, eJPTv1 
 
 • Ex-3D/CG/VFX/Animation artist turned Security Engineer\
