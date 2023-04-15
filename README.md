@@ -1,13 +1,18 @@
 # About me 🧙‍♂️
 
 Security Engineer | AppSec && DevSecOps
+- Ex-3D artist turned Security Engineer
 
-Some Certifications:<br>
-• OSWE, eCPPTv2, eJPTv1 
 
-• Ex-3D/CG/VFX/Animation artist turned Security Engineer\
-• Other interests are Fingerstyle Guitar, Drums, Tennis, and Astronomy
+Some Certifications:
+- OSWE, eCPPTv2, eJPTv1 
+
 
 ## Programming Languages 🍄
 
-Kotlin, Java, Go, Python, SQL, JavaScript, PHP, C
+Kotlin, Java, Go, Python, Bash, PL/SQL, JavaScript, PHP, C
+
+
+## Non-tech interests/hobbies 🧌
+
+Fingerstyle Guitar, Drums, Tennis, and Astronomy
