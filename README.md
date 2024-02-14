@@ -2,7 +2,7 @@
 
 Security Engineer
 
-Some Certifications (not that it matter):
+Some Certifications (not that it matters):
 - OSWE, eCPPTv2, eJPTv1 
 
 ## Non-tech interests/hobbies 🧌
